@@ -2,6 +2,9 @@
 a whack a mole game but you whack THE MAXSTELLAR instead of moles. made for onekey.
 ### [play here](sahilchess.itch.io/whack-a-max/)
 
+<img width="25000" height="auto" alt="image" src="https://github.com/user-attachments/assets/bee6d991-5273-4734-852a-1769dcff8c34" />
+
+
 
 ---
 ## wut this?
